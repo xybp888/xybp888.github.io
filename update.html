@@ -14,7 +14,8 @@
   			.back {background: white; color:  #555;}
   			.models {border:solid 0px #2b85e4}
 		}
-		ul,li{padding:0;margin:0;}
+		ul{counter-reset:num;padding:0;margin:0;}
+		li:before{content:counter(num)'. ';counter-increment:num;padding:0;margin:0;}
 	</style>
 </head>
 <body class="back">
