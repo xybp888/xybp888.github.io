@@ -97,55 +97,15 @@ Name: 电话助手iOS13-正式完整版(兼容A12/A13)
 Sileodepiction: https://apt.htv123.com/update.html
 
 Package: com.xybp888.CallAssist13
-Version: 2.1.0
+Version: 2.1.5
 Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/com.xybp888.CallAssist13_2.1.0_iphoneos-arm.deb
-Size: 1344636
-MD5sum: 55a2f550a01b9df4ec34b339b991a5ab
-SHA1: 4933f2466b4d411f64b3f66c69f01e1dcf90c1e6
-SHA256: 7a2ec0296d5e607aaad831c2a5ecf061d2167a37c4eea7a3b89bf8daa6397cb5
-Section: Tweak
-Priority: optional
-Homepage: https://apt.htv123.com
-Description: 电话助手授权版本,集成T9,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/update.html
-Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
-Name: 电话助手iOS13-正式完整版(兼容A12/A13)
-Sileodepiction: https://apt.htv123.com/update.html
-
-Package: com.xybp888.CallAssist13
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/com.xybp888.CallAssist13_2.1.1_iphoneos-arm.deb
-Size: 1345590
-MD5sum: 69a7069a20ac8105e6bcdbd47319f027
-SHA1: 72829c056fd1caa02c7a2a1416652fa9afde38db
-SHA256: 6f0a9d64035c1c18f7783ad82cc6da05e11b27ccf0e3222a338d290b13c00bb1
-Section: Tweak
-Priority: optional
-Homepage: https://apt.htv123.com
-Description: 电话助手授权版本,集成T9,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/update.html
-Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
-Name: 电话助手iOS13-正式完整版(兼容A12/A13)
-Sileodepiction: https://apt.htv123.com/update.html
-
-Package: com.xybp888.CallAssist13
-Version: 2.1.4
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Depends: firmware (>= 13.0), mobilesubstrate,preferenceloader
-Filename: ./debs/com.xybp888.CallAssist13_2.1.4_iphoneos-arm.deb
-Size: 1403850
-MD5sum: 8b0215cf6ba4b6e7470f6c2ab88a56e9
-SHA1: ef2cd8601807512003372484a66a100e6c08aadc
-SHA256: da83d39c1068a9decbb72e763df254b95ddef508e96485e51e69258e00013eeb
+Filename: ./debs/com.xybp888.CallAssist13_2.1.5_iphoneos-arm.deb
+Size: 1429462
+MD5sum: 34347e49c92f053db85a358b381ebc68
+SHA1: de8d897a2ce68e70c96a59b52515b8f386a6721a
+SHA256: c309b7d6181d17a80ff00a70d0385a002aee798141bcf17f8a5b1ccb4be50a32
 Section: Tweak
 Priority: optional
 Homepage: https://apt.htv123.com
